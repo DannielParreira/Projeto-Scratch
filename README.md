@@ -1,7 +1,7 @@
 # Projeto-Scratch
 
 Introdução: O jogo "Flappy Bird" foi desenvolvido como parte do 
-projeto final em Scratch, para demonstrar minhas abilidades de programação em Scratch.
+projeto final em Scratch, para demonstrar minhas habilidades de programação em Scratch.
 
 
 Descrição do jogo:"Flappy bird" é um jogo simples, e que fez 
